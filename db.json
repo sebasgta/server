@@ -16,32 +16,5 @@
             "type":"Attribute"
          }
       ]
-   },
-   {
-      "name":"CAMBIO DE LA VIGENCIA",
-      "atributos":[
-         {
-            "value":"15;Changes to the validity terms of the society",
-            "type":"Attribute"
-         }
-      ]
-   },
-   {
-      "name":"CAMBIO DE RAZON SOCIAL",
-      "atributos":[
-         {
-            "value":"13;Changes in the Corporate name of the Society",
-            "type":"Attribute"
-         }
-      ]
-   },
-   {
-      "name":"CAMBIO JUNTA DIRECTIVA",
-      "atributos":[
-         {
-            "value":"7;Changes in the Board of Directors",
-            "type":"Attribute"
-         }
-      ]
    }
 ]
