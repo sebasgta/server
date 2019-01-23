@@ -1,0 +1,392 @@
+[
+   {
+      "id":"6c0b85d5-8a69-4839-ab63-3675a63d0ddc",
+      "name":"ACLARACIONES",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"1;Clarifications derived from the edicts of the various chambers (e.g. Clarification on the Amount of the Social Capital",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"a42c6e81-d655-4506-a9fe-f43f61468798",
+      "name":"ACUERDOS",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"22;Agreements established between/among societies and registered before the various chambers",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"83f45307-ffd9-4fdd-a851-279a2362325b",
+      "name":"CAMBIO DE LA VIGENCIA",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"15;Changes to the validity terms of the society",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"6c05935e-b9a7-4838-ae62-23bc98ab419a",
+      "name":"CAMBIO DE RAZON SOCIAL",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"13;Changes in the Corporate name of the Society",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"c0bfb9c6-f6ac-420b-95a1-48a5b9a2bc18",
+      "name":"CAMBIO JUNTA DIRECTIVA",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"7;Changes in the Board of Directors",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"0f5afcfc-69cd-400f-bff0-f1f3abb5f9eb",
+      "name":"CAMBIOS DE SUBORDINADA - EJERCE CONTROL",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"10;Changes over the control of one Company moving to another company",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"f27f5d7a-499e-4f5d-893c-53554a71210c",
+      "name":"CAMBIOS EN DATOS DE UBICACIÓN",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"3;Changes in the location of the Company (Email, phone) NO DOMICILE",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"1e9efc23-7318-4b98-9cdb-3f35a13792a4",
+      "name":"CAMBIOS EN EL CAPITAL SOCIAL - CUOTAS SOCIALES",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"14;Changes in the Social Capital or in the Social Installments",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"00663516-594e-4061-a94e-17e963c536c4",
+      "name":"CAMBIOS EN LA REPRESENTACION LEGAL",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"5;Changes in Legal Representation",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"dd6dc4c9-eff5-4251-8416-488b2bb036a0",
+      "name":"CONSTITUCION - ESCISION - FUSION - ABSORCION - ADQUISICION - DISOLUCION -LIQUIDACION",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"21;Changes in the status of the Company, from its constitution until its dissolution",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"21747d2e-727c-41f1-a00e-87a10f859af2",
+      "name":"CONTRATO DE PRENDA",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"20;Registration of contracts of hypothecation or cancelations thereof",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"923b4423-3f5f-4cbd-9c55-55069f2b7f29",
+      "name":"CONTROL DE SUPERINTENDENCIA",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"25;When a society enters a regulated status by Superintendencia",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"aefbc192-5eb9-49e5-a0f5-fb848f78cd35",
+      "name":"DEMANDAS",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"23;Legal processes detailed in chambers bulletins",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"3f256d24-2169-48cf-86d9-4479bc7f4cc9",
+      "name":"EMBARGOS - DESEMBARGOS",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"16;Registration of confiscations or removal thereof",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"9942484e-0f45-4183-b228-d92e82ebb8f2",
+      "name":"LIBROS DE CONTABILIDAD - COMERCIO",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"9;Registration of new Accounting Ledgers",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"a7af9e5d-963b-48b7-9d1b-58b53ddbf382",
+      "name":"MODIFICACION DE MATRICULA",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"26;Modifications to Registration",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"186d4793-16a5-460a-a113-fbbd0a3b3558",
+      "name":"MODIFICACIONES DE ACTIVIDADES COMERCIALES",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"2;Modifications to the Commercial Activity of the Company",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"791829d5-f2c1-4b44-8309-1f243d7b9b50",
+      "name":"MODIFICACIONES DE AGENCIAS - ESTABLECIMIENTOS – SUCURSAL",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"11;Modifications to Agency, Establishment and/or Branches",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"cd8f1e6f-491c-43f0-8e95-40379aea7eff",
+      "name":"MODIFICACIONES DE FIDUCIAS",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"19;Modifications to Trust Fund Contracts",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"835a73b0-193c-48e8-bf19-6e65201f1c55",
+      "name":"MODIFICACIONES OBJETO SOCIAL",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"6;Modifications to the Corporate Name",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"3c5d9a35-5f87-4425-9059-be54948917f6",
+      "name":"NOMBRAMIENTOS - RETIROS - REMOCIONES",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"4;Appointments, Dismissals, removals, resignations from the various functions in Companies Excepting that of the Directive Board or the Legal Representative",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"60fd52cc-3196-41d9-b422-16853f541431",
+      "name":"PODERES",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"12;Granting of power of attorneys or removal thereof",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"c4eeec54-eb4e-4f35-af02-9ea2b600dccb",
+      "name":"REFORMA ESTATUTOS",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"17;Reform to social statutes",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"ecd24b08-23e9-4111-8b46-65080e7003fb",
+      "name":"RENOVACIÓN O CANCELACIÓN DE MATRICULA",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"27;Renewal or cancellation of registration",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"f7e0c1c8-cbc1-436b-b49a-2cce6447a549",
+      "name":"TRANSFORMACION TIPO DE SOCIEDAD",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"18;Transformation of the type of society.",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "id":"95e0e103-2599-488b-a9aa-d651ce7f0ba9",
+      "name":"TRASLADOS O CAMBIOS DE DOMICILIO",
+      "description":"",
+      "type":"Asset",
+      "childrens":[
+
+      ],
+      "atributos":[
+         {
+            "value":"24;Changes in the actual domicile of the society.",
+            "type":"Attribute"
+         }
+      ]
+   }
+]
